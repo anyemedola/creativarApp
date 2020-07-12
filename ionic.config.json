@@ -1,0 +1,7 @@
+{
+  "name": "creativarApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
